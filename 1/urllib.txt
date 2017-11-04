@@ -1,0 +1,9 @@
+urllib.error: ContentTooShortError; HTTPError; URLError
+
+urllib.parse: parseqs; parseqsl; quote; quotefrombytes; quote_plus; unquote unquoteplus; unquoteto_bytes; urldefrag; urlencode; urljoin; urlparse; urlsplit; urlunparse; urlunsplit
+
+urllib.request: AbstractBasicAuthHandler; AbstractDigestAuthHandler; BaseHandler; CatheFTPHandler; FTPHandler; FancyURLopener; FileHandler; HTTPBasicAuthHandler; HTTPCookieProcessor; HTTPDefaultErrorHandler; HTTPDigestAuthHandler; HTTPErrorProcessorl; HTTPHandler; HTTPPasswordMgr; HTTPPasswordMgrWithDefaultRealm; HTTPRedirectHandler; HTTPSHandler;OpenerDirector;ProxyBasicAuthHandler ProxyDigestAuthHandler; ProxyHandler; Request; URLopener; UnknowHandler; buildopener; getproxies; installopener; pathname2url; url2pathname; urlcleanup; urlopen; urlretrieve;
+
+urllib.response: addbase; addclosehook; addinfo; addinfourl;
+
+urllib.robotparser: RobotFileParser
